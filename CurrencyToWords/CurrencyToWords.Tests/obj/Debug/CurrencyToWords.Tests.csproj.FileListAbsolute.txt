@@ -1,0 +1,9 @@
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\CurrencyToWords.Tests.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\CurrencyToWords.Tests.pdb
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\CurrencyToWords.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\nunit.framework.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\CurrencyToWords.pdb
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\bin\Debug\nunit.framework.xml
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\obj\Debug\CurrencyToWords.Tests.csprojResolveAssemblyReference.cache
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\obj\Debug\CurrencyToWords.Tests.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords.Tests\obj\Debug\CurrencyToWords.Tests.pdb

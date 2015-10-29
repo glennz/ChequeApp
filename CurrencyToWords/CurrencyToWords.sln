@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyToWords", "CurrencyToWords\CurrencyToWords.csproj", "{8A7F5182-D573-4485-BACC-930AB3E7AE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyToWords.Tests", "CurrencyToWords.Tests\CurrencyToWords.Tests.csproj", "{C9B690C9-390C-4D99-8E42-B18BAF9CCA34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7F5182-D573-4485-BACC-930AB3E7AE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7F5182-D573-4485-BACC-930AB3E7AE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7F5182-D573-4485-BACC-930AB3E7AE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7F5182-D573-4485-BACC-930AB3E7AE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B690C9-390C-4D99-8E42-B18BAF9CCA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B690C9-390C-4D99-8E42-B18BAF9CCA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B690C9-390C-4D99-8E42-B18BAF9CCA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B690C9-390C-4D99-8E42-B18BAF9CCA34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

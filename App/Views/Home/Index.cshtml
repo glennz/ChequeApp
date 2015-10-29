@@ -1,0 +1,39 @@
+﻿
+<div class="row">
+    <div class="chq-form">
+        <div class="container">
+            <h2>Cheque Form</h2>
+            <p>It is assumed that this is for Australia only.</p>
+            <form role="form">
+                <div class="form-group">
+                    <label for="name">Name:</label>
+                    <input type="text" class="form-control" id="name" required data-bind="value:name, valueUpdate:'keyup'" />
+                </div>
+                <div class="form-group">
+                    <label for="date">Date:</label>
+                    <input type="text" class="form-control" id="date" data-bind="value:date, valueUpdate:'keyup'" />
+                </div>
+                <div class="form-group">
+                    <label for="amount">Amount:</label>
+                    <input type="number" step="0.25"  class="form-control" id="amount" data-bind="value:amount, valueUpdate:'keyup'" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="chq">
+        <div class="container">
+            <div class="row section1">
+                <div class="col-md-9 col-xs-9">&nbsp;</div>
+                <div class="col-md-3 col-xs-3"><span data-bind="text: showDate"></span></div>
+            </div>
+            <div class="row section2">
+                <div class="col-md-9 col-xs-9 section2col1"><span data-bind="text: showName"></span></div>
+                <div class="col-md-3 col-xs-3 section2col2"><span data-bind="text: showAmt"></span></div>
+            </div>
+            <div class="row section3">
+                <div class="col-md-12 col-xs-12 section3col1"><span data-bind="text: chqAmount"></span></div>
+            </div>
+        </div>
+    </div>
+</div>

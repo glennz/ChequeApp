@@ -1,0 +1,5 @@
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords\bin\Debug\CurrencyToWords.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords\bin\Debug\CurrencyToWords.pdb
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.csprojResolveAssemblyReference.cache
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.dll
+C:\Test Projects\ChequeApp\CurrencyToWords\CurrencyToWords\obj\Debug\CurrencyToWords.pdb
